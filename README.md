@@ -7,23 +7,51 @@
 
 ## Introduction
 
-I didn't start out using Linux...; but, instead, I started out using Windows software.  
+- Emacs, is an acryonm which stands for, Escape, Meta, Alr, Control, Shift.  
 
-However, due to an installation accident...I ended up 'deleting' my previous Windows 10 OS/Operating System...;   
-and, so ended up running Linux Mint OS, instead.    
+- Emacs, is normally a Linux based editor program; however, it can also be used cross platform: Linux/Mac/Windows/BSD/-etc.  
 
-Emacs, is an editor program which I heard is used mostly by Linux users.   
+- I've heard it said that Emacs editor has 10,000 commands...???!!!  
 
-However, as I've come to read...it also works cross platform on: Linux/Mac/Windows/BSD/-etc.    
+- Emacs, is programmable as it uses bulit-in ELisp.
 
-It is said that Emacs editor has 10,000 commands...???
+- Emacs, can be used NOT just as being merely a text editor; but, also, to achieve multi-farious purposes: 
+-- editor
+-- playing games
+-- programming (ELisp)
+-- file browser
+-- etc.
 
-It is also said that it's NOT just an editor, alone; but, can have multiple uses:  
-- editor
-- playing games
-- programming (ELisp)
-- file explorer
-- etc.
+## My own personal computing history
+
+Personally speaking, I didn't start out using Linux...; instead, I started out using only Windows software.  
+
+Of course, I did hear of Linux OS having been mentioned before...in fact, repeatedly; but, I never really knew what it was by having had any actual 'hands on' experience.
+
+Anyway, to go cut a long story short...; one day I was experimenting with putting a CD-ROM disc into my Windows 10 computer...; and, running Linux Mint from there.
+
+Then, another day, I decided to try and set up a 'dual boot' computer system...that would allow me to run both Windows/and, Linux Mint together at once. 
+
+Much to my utter dismay...Windows 10, had gotten completely 'deleted'...; and, I was left with no other choice but to run Linux Mint on its own.
+
+It's, now, been around 2 years, later on; and, I still prefer using Linux Mint...rather than return back to using Windows, anymore.
+
+I find Linux Mint does nearly all of the things that Windows can do...; and, perhaps, even much more.
+
+ADVANTAGES  
+
+- I can browse the internet just like usual...   
+- Linux software is FREE  
+- I no longer need to 'buy/update' Anti-virus software...as Linux seems to be a pretty secure system.  
+- I can both download/run multiple different programming languages.  
+- Etc.  
+
+DISADVANTAGES  
+
+I no longer have access to such things as...  
+- CMD, Powershell, VBScript, -etc.  
+- Certain Windows software I was using before...; isn't available for use of Linux (but, there is usually some equivalent package)  
+
 
 Right now, I'm just starting out to use it...having just installed it, today;    
 so, I can hardly say I understand how to use it properly, yet;      
