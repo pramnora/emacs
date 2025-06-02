@@ -25,6 +25,17 @@ and, so the rest of the installation continued...until when the installation was
 Once Emacs software had already been fully installed...I was greeted with the Emacs UI/User Interface window;  
 which has File menu at the top/along with other options.  
 
+-----
+
+## Emacs built-in tutorial
+
+To use the Emacs built-in tutorial...type in the command:  
+C+h t (meaning, [CTRL]+[h] followed by [t]
+
+-----
+
+## My own experience so far...
+
 I tried using the menu to create first text files(.txt)...which display as being just plain ordinary text;      
 and, then, (.html) files...inside of the HTML file code syntax highlighting works.  
 
