@@ -7,7 +7,26 @@
 
 ## Introduction
 
+I didn't start out using Linux...; but, instead, I started out using Windows software.  
+
+However, due to an accident...I ended up deleting my Windows 10 OS/and, so ended up running Linux Mint.    
+
+Emacs, is an editor program which I heard is used mostly by Linux users.   
+
+However, as I've come to read...it also works cross platform on: Linux/Mac/Windows/BSD/-etc.    
+
 It is said that Emacs editor has 10,000 commands...???
+
+It is also said that it's NOT just an editor, alone; but, can have multiple uses:  
+- editor
+- playing games
+- programming (ELisp)
+- file explorer
+- etc.
+
+Right now, I'm just starting out to use it...having just installed it, today;    
+so, I can hardly say I understand how to use it properly, yet;      
+or, that I know how this software fully functions.  
 
 -----
 
