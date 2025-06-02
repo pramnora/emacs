@@ -13,7 +13,7 @@ It is said that Emacs editor has 10,000 commands...???
 
 ## Installation
 
-I'm using OS/Operating System: Linux Mint; and, I've just installed Emacs editor program.
+I'm using Linux Mint OS/Operating System; onto which I installed Emacs editor program using the following command:
 
 > sudo apt install emacs
 
