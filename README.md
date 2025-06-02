@@ -48,5 +48,12 @@ Wikipedia article
 
 The Absolute Beginner's Guide to Emacs / (Channel: System Crafters)  
 - https://www.youtube.com/watch?v=48JlgiBpw_I
-  
+
+Emacs From Scratch, An Emacs Tutorial for Beginners - 01 Introduction / (Channel: Ixsameer)  
+- https://www.youtube.com/watch?v=zkfndJuDzsA
+
+How to Setup Emacs for Web Development / (Channel: Systematician)  
+- https://www.youtube.com/watch?v=FukoOretjg8  
+
+
   
