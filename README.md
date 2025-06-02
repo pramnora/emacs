@@ -55,5 +55,6 @@ Emacs From Scratch, An Emacs Tutorial for Beginners - 01 Introduction / (Channel
 How to Setup Emacs for Web Development / (Channel: Systematician)  
 - https://www.youtube.com/watch?v=FukoOretjg8  
 
-
+5 Reasons You Should Use Emacs (And 1 Reason Why You Shouldn't) / (Channel: The Linux Cast)  
+- https://www.youtube.com/watch?v=vS6UqZvJbbU  
   
