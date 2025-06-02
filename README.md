@@ -45,6 +45,10 @@ Wikipedia article
 Emacswiki.org  
 - https://www.emacswiki.org/emacs/GnuEmacs  
 
+GNU.org  
+- https://www.gnu.org/software/emacs/  
+
+
 -----
 
 ## YouTube videos
