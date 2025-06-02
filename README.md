@@ -49,6 +49,7 @@ GNU.org
 - https://www.gnu.org/software/emacs/  
 - https://www.gnu.org/software/emacs/tour/index.html
 - https://www.gnu.org/software/emacs/manual/html_node/emacs/index.html  
+- https://www.gnu.org/software/emacs/manual/elisp.html
 
 -----
 
