@@ -7,7 +7,7 @@
 
 ## Introduction
 
-- Emacs, is an acryonm which stands for, Escape, Meta, Alr, Control, Shift.  
+- Emacs, is an acryonm which stands for, Escape, Meta, Alt, Control, Shift.  
 
 - Emacs, is normally a Linux based editor program; however, it can also be used cross platform: Linux/Mac/Windows/BSD/-etc.  
 
