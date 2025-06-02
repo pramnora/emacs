@@ -54,7 +54,7 @@ C+h t, meaning, [CTRL]+[h] followed by [t]
 To use the Emacs built-in manual...type in the command:  
 C+h r, meaning, [CTRL]+[h] followed by [r]
 
-To use Emails built-in help...type in the commands:
+To use Emails built-in help...type in the commands:  
 C+h C+h, meaning, [CTRL]+[h] [CTRL]+[h], twice.
 
 -----
