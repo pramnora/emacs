@@ -9,7 +9,8 @@
 
 I didn't start out using Linux...; but, instead, I started out using Windows software.  
 
-However, due to an accident...I ended up deleting my Windows 10 OS/and, so ended up running Linux Mint.    
+However, due to an installation accident...I ended up 'deleting' my previous Windows 10 OS/Operating System...;   
+and, so ended up running Linux Mint OS, instead.    
 
 Emacs, is an editor program which I heard is used mostly by Linux users.   
 
