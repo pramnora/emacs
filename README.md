@@ -22,7 +22,7 @@
 -- file browser
 -- etc.
 
-## My own personal computing history
+## My own personal computing history - Windows VS Linux  
 
 Personally speaking, I didn't start out using Linux...; instead, I started out using only Windows software.  
 
