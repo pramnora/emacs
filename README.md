@@ -11,14 +11,15 @@ I'm using OS/Operating System: Linux Mint; and, I've just installed Emacs editor
 
 > sudo apt install emacs
 
-...next, I was asked for an admin password; which I subsequently entered. 
-Then, the installation started happenning...; 
-at one point I was asked if it's ok to use up memory space...to which I simply typed: y, meaning, yes;
-and, so the rest of the installation continued...until when the installation finished.
+...next, I was asked for an admin password; which I subsequently entered;   
+then, the installation started happenning...;  
+at one point I was asked if it's ok to use up memory space...to which I simply typed: y, meaning, yes;  
+and, so the rest of the installation continued...until when the installation was finally all done.  
 
-Finally, I was greeted with the Emacs window.
+Once Emacs software had already been fully installed...I was greeted with the Emacs UI/User Interface window;  
+which has File menu at the top/along with other options.  
 
-I tried using the menu to create first text files(.txt);  
+I tried using the menu to create first text files(.txt)...which display as being just plain ordinary text;      
 and, then, (.html) files...inside of the HTML file code syntax highlighting works.  
 
 At one point I tried clicking on the menu option which said use Calculator;  
