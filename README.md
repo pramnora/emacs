@@ -49,12 +49,11 @@ ADVANTAGES
 DISADVANTAGES  
 
 I no longer have access to such things as...  
-- CMD, Powershell, VBScript, -etc.  
-- Certain Windows software I was using before...; isn't available for use of Linux (but, there is usually some equivalent package)  
+- CMD, Powershell, VBScript, [.bat], -etc. (Though, Linux has it's equivalents: The Terminal, BASH, and, so on...)   
+- Certain Windows software I was using before...; isn't available for use of Linux (but, there is usually some equivalent package)    
 
-
-Right now, I'm just starting out to use it...having just installed it, today;    
-so, I can hardly say I understand how to use it properly, yet;      
+Only just yesterday, I went and installed: Emacs editor software;    
+and, therefore, I can hardly say I understand how to use it properly, yet;       
 or, that I know how this software fully functions.  
 
 -----
