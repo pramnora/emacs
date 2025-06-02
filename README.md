@@ -25,3 +25,14 @@ and, then, (.html) files...inside of the HTML file code syntax highlighting work
 At one point I tried clicking on the menu option which said use Calculator;  
 and, after the question mark prompt: ? I typed in 1+1/and, the answer appeared saying: 2.  
 
+-----
+
+## Web sites
+
+
+## YouTube videos
+
+The Absolute Beginner's Guide to Emacs / (Channel: System Crafters)  
+- https://www.youtube.com/watch?v=48JlgiBpw_I
+  
+  
