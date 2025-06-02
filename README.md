@@ -30,7 +30,7 @@ which has File menu at the top/along with other options.
 ## Emacs built-in tutorial
 
 To use the Emacs built-in tutorial...type in the command:  
-C+h t (meaning, [CTRL]+[h] followed by [t]
+C+h t, meaning, [CTRL]+[h] followed by [t]
 
 -----
 
