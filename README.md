@@ -51,13 +51,7 @@ DISADVANTAGES
 
 I no longer have access to such things as...  
 - Notepad, CMD/[.bat], Powershell, VBScript, -etc. (Though, Linux has it's equivalents: The Terminal, BASH/[.sh]; GEdit/Xed/Nano/VIM/Emacs/and, so on...)   
-- Certain Windows software I was using before...; isn't available for use on Linux (I really miss using: MSPaint/ArtRage/-etc. But, once again, Linux has it's equivalents, too. I also use web browser based: sketchpad.io/and, the mouse to draw with.)              
-
-Only just yesterday(Mon 020625), I went and installed: Emacs editor software;    
-and, therefore, I can hardly say I understand how to use it properly, yet;       
-nor can I claim that I know how this software fully functions;  
-the most I can say is, I'm still learning how to use it more efffectively,   
-going just one single step at a time.     
+- Certain Windows software I was using before...; isn't available for use on Linux (I really miss using: MSPaint/ArtRage/-etc. But, once again, Linux has it's equivalents, too. Plus, I often use web browser based software: sketchpad.io/in conjunction with the mouse to draw with.)              
 
 -----
 
@@ -91,6 +85,12 @@ C+h C+h, meaning, [CTRL]+[h] [CTRL]+[h], twice.
 -----
 
 ## My own experience so far...
+
+Only just yesterday(Mon 020625), I went and installed: Emacs editor software;    
+and, therefore, I can hardly say I understand how to use it properly, yet;       
+nor can I claim that I know how this software fully functions;  
+the most I can say is, I'm still learning how to use it more efffectively,   
+going just one single step at a time.     
 
 I tried using the menu to create first text files(.txt)...which display as being just plain ordinary text;      
 and, then, (.html) files...inside of the HTML file code syntax highlighting works.  
