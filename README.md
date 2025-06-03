@@ -16,6 +16,7 @@
 - Emacs, is programmable as it uses bulit-in ELisp.
 
 - Emacs, can be used NOT just as being merely a text editor; but, also, to achieve multi-farious purposes:  
+
 -- editor  
 -- playing games  
 -- programming (ELisp)  
@@ -40,7 +41,7 @@ I find Linux Mint does nearly all of the things that Windows can do...; and, per
 
 ADVANTAGES  
 
-- I can browse the internet just like usual...   
+- I can browse the internet just like usual...(Web browsers: Firefox/Chrome/-etc.)       
 - Linux software is FREE  
 - I no longer need to 'buy/update' Anti-virus software...as Linux seems to be a pretty secure system.  
 - I can both download/run multiple different programming languages: HTML/CSS/Javascript/Ruby/Lisp/Python3/Lua/C/C++/-etc.    
@@ -49,13 +50,14 @@ ADVANTAGES
 DISADVANTAGES  
 
 I no longer have access to such things as...  
-- Notepad, CMD/[.bat], Powershell, VBScript, -etc. (Though, Linux has it's equivalents: The Terminal, BASH/[.sh]; Nano/VIM/Emacs/GEdit/and, so on...)   
+- Notepad, CMD/[.bat], Powershell, VBScript, -etc. (Though, Linux has it's equivalents: The Terminal, BASH/[.sh]; GEdit/Nano/VIM/Emacs/and, so on...)   
 - Certain Windows software I was using before...; isn't available for use of Linux (but, there is usually some equivalent package...such as graphics: MSPaint/ArtRage/-etc.)             
 
 Only just yesterday, I went and installed: Emacs editor software;    
 and, therefore, I can hardly say I understand how to use it properly, yet;       
 nor can I claim that I know how this software fully functions;  
-the most I can say is, I'm still learning how to more efffectively use it.  
+the most I can say is, I'm still learning how to use it more efffectively,   
+going just one single step at a time.     
 
 -----
 
