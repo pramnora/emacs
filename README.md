@@ -44,7 +44,7 @@ ADVANTAGES
 - I can browse the internet just like usual...(Web browsers: Firefox/Chrome/-etc.)       
 - Linux software is FREE  
 - I no longer need to 'buy/update' Anti-virus software...as Linux seems to be a pretty secure system.  
-- I can both download/run multiple different programming languages: HTML/CSS/Javascript/Ruby/Lisp/Python3/Lua/C/C++/-etc.    
+- I can both download/run multiple different programming languages: HTML/CSS/Javascript/Ruby/Lisp/Python3/Pip/Lua/C/C++/-etc.    
 - Etc.  
 
 DISADVANTAGES  
