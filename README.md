@@ -51,7 +51,7 @@ DISADVANTAGES
 
 I no longer have access to such things as...  
 - Notepad, CMD/[.bat], Powershell, VBScript, -etc. (Though, Linux has it's equivalents: The Terminal, BASH/[.sh]; GEdit/Xed/Nano/VIM/Emacs/and, so on...)   
-- Certain Windows software I was using before...; isn't available for use of Linux (I really miss using: MSPaint/ArtRage/-etc. But, once again, Linux has it's equivalents, too. I also use web browser based: sketchpad.io/and, the mouse to draw with.)              
+- Certain Windows software I was using before...; isn't available for use on Linux (I really miss using: MSPaint/ArtRage/-etc. But, once again, Linux has it's equivalents, too. I also use web browser based: sketchpad.io/and, the mouse to draw with.)              
 
 Only just yesterday, I went and installed: Emacs editor software;    
 and, therefore, I can hardly say I understand how to use it properly, yet;       
