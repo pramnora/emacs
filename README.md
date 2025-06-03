@@ -92,11 +92,12 @@ nor can I claim that I know how this software fully functions;
 the most I can say is, I'm still learning how to use it more efffectively,   
 going just one single step at a time.     
 
-I tried using the menu to create first text files(.txt)...which display as being just plain ordinary text;      
-and, then, (.html) files...inside of the HTML file code syntax highlighting works.  
+I tried using the menu to create...  
+- [.txt] files, which display as being just plain ordinary text  
+- [.html] files, HTML file code syntax highlighting works.   
 
 At one point I tried clicking on the menu option which said use Calculator;  
-and, after the question mark prompt: ? I typed in 1+1/and, the answer appeared saying: 2.  
+and, after the question mark prompt: ? I typed in 1+1/and, the answer appeared saying: 2.    
 
 -----
 
